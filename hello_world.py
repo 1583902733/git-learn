@@ -1,2 +1,1 @@
-print('hello world! 
-        This is my first time to use git')
+print('hello world! \nThis is my first time to use git')
